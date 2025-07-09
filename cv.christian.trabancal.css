@@ -1,3 +1,14 @@
 h1{
 color: rgb(106, 0, 255);
 }
+
+.container-flex 
+            {
+            display: flex;
+            border: 1px solid #000;
+            height: 200px;
+            }
+.container-m {
+    width: 50%;
+
+}
